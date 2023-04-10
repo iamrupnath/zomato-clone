@@ -28,3 +28,8 @@ If you are a beginner and just started with html & css, learn the basics and sta
 
 * **Rupnath Shaw** - *Comp Sci Student* - [Rupnath Shaw](https://github.com/iamrupnath) 
 
+## Live preview
+
+* **Live project:** [Click here](https://iamrupnath.github.io/zomato-clone/)
+
+* **Source code:** [Click here](https://github.com/iamrupnath/zomato-clone)
